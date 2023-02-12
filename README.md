@@ -9,7 +9,9 @@ After the button is pressed, as series of prompts and confirms will pop up askin
 Once the final confirms is selected, the generated password will appear in the box in the middle of the page.
 
 Below is a screenshot of the webpage found at the following link: 
+https://cashew1337.github.io/PasswordGenerator/
 
+![website screenshot](assets\images\PassGen.PNG)
 
 
 # Credits
